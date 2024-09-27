@@ -1,6 +1,9 @@
 # AlgorithmWork
 
-## Time Complexity of Insertion Sort
+## Complexity of Insertion Sort
+
+- Time Complexity: O(N^2)
+- Auxiliary Space: O(1)
 
 - Best case: O(n) , If the list is already sorted, where n is the number of elements in the list.
 - Average case: O(n^2 ) , If the list is randomly ordered
