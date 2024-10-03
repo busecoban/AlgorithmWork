@@ -21,7 +21,6 @@ class binarySearchRecursive {
 		return -1;
 	}
 
-	// main function
 	public static void main(String args[])
 	{
         binarySearchRecursive ob = new binarySearchRecursive();
